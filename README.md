@@ -1,1 +1,219 @@
-# uunv.github.io
+# 🚀2025年最佳住宅IP代理推荐（带优惠与价格比较）
+
+住宅IP代理（Residential Proxies）是指来源于真实家庭用户设备的IP地址，具备极高的匿名性和信任度，广泛应用于爬虫抓取、广告验证、社媒营销、SEO分析等场景。本文为您精选了**全球最值得信赖的住宅代理服务商**，涵盖国际大牌与高性价比国产平台，带来详细介绍、价格方案及联盟推广链接。
+
+---
+
+## 🌍 1. Bright Data ![Bright Data](https://brightdata.com/images/logo.png)
+
+### 简介
+
+Bright Data（原Luminati）是住宅代理行业的龙头，拥有超过7200万IP，覆盖195+国家，支持HTTP/HTTPS/SOCKS5协议，广泛应用于**广告验证、SEO、价格监控、品牌保护、社交营销**等。
+
+* ✅ 全球最大住宅IP池
+* ✅ 支持粘性IP、轮换IP
+* ✅ 提供浏览器插件、API、工具套件
+
+### 优惠与价格
+
+* 🔥【新用户注册送 \$500 额度】
+* 📦 起步价：\$15/GB，套餐购买可降至 \$5/GB
+
+👉 [立即访问 Bright Data 官网](https://brightdata.com/)
+
+---
+
+## 🛰️ 2. Oxylabs ![Oxylabs](https://oxylabs.io/images/logo.svg)
+
+### 简介
+
+Oxylabs 提供超过1亿住宅IP，IP质量优越，平均响应0.6秒，适用于大规模数据采集、广告验证和AI训练等场景。
+
+* ✅ 企业级住宅代理解决方案
+* ✅ 自研爬虫API与实时数据服务
+* ✅ IP成功率高达99.95%
+
+### 优惠与价格
+
+* 🎁 7天企业试用（申请制）
+* 📦 起步套餐：\$99/月含8GB，额外按 \$12/GB 计费
+
+👉 [立即访问 Oxylabs 官网](https://oxylabs.io/)
+
+---
+
+## 🚀 3. Smartproxy (Decodo) ![Smartproxy](https://smartproxy.com/favicon-96x96.png)
+
+### 简介
+
+Smartproxy 提供5500万+住宅IP，定位清晰、操作简便，支持浏览器扩展和自助API接口，适合中小型团队使用。
+
+* ✅ 秒换IP、粘性IP支持
+* ✅ 高性价比入门方案
+* ✅ 平均延迟低于0.6秒
+
+### 优惠与价格
+
+* 🎟️ 优惠码：`RESI50`（享5折）
+* 📦 起步套餐：\$75 含5GB，约 \$15/GB，批量折扣更低
+
+👉 [点击访问 Smartproxy 官网](https://smartproxy.com/)
+
+---
+
+## 🌐 4. SOAX ![SOAX](https://soax.com/favicon.ico)
+
+### 简介
+
+SOAX 提供高质量住宅代理，IP池超过1.55亿，支持精细地理筛选，成功率高，适合精密抓取与社交账号管理。
+
+* ✅ 国家/城市/ISP多层筛选
+* ✅ 高可用率、稳定连接
+* ✅ 平均响应仅0.55秒
+
+### 优惠与价格
+
+* 🔍 \$1.99 试用
+* 🎟️ 优惠码：`proxyway`（享8折）
+* 📦 起步：\$99/8GB（\$12.4/GB）
+
+👉 [立即访问 SOAX 官网](https://soax.com/)
+
+---
+
+## ⚙️ 5. NetNut ![NetNut](https://netnut.io/favicon.ico)
+
+### 简介
+
+NetNut 拥有8500万住宅IP，依赖ISP直连网络，支持HTTP/SOCKS5，适用于**流量密集型任务和敏感抓取**需求。
+
+* ✅ 无P2P架构，直连速度快
+* ✅ 无限并发、企业级稳定性
+* ✅ API灵活对接
+
+### 优惠与价格
+
+* 🎁 7天试用
+* 🎟️ 优惠码：`PWYNTNT`（享7折）
+* 📦 起步：\$300/20GB（\$15/GB）
+
+👉 [访问 NetNut 官网](https://netnut.io/)
+
+---
+
+## 💡 6. IPRoyal ![IPRoyal](https://iproyal.com/favicon.ico)
+
+### 简介
+
+IPRoyal 提供5000万+住宅IP，支持全球定位，最大特色是**流量永不过期**，非常适合长期断续使用。
+
+* ✅ 按流量计费 + 永不过期
+* ✅ 静态IP与动态住宅IP齐全
+* ✅ 支持按国家/城市筛选
+
+### 优惠与价格
+
+* 🎟️ 优惠码：`PROXYWAY30`
+* 📦 流量：\$7/GB 起，静态IP \$2.70/月起
+
+👉 [前往 IPRoyal 官网](https://iproyal.com/)
+
+---
+
+## 🛡️ 7. 922 S5 Proxy ![922 S5](https://www.922proxy.com/favicon.ico)
+
+### 简介
+
+922 S5 是基于Socks5协议的客户端住宅代理工具，继承911 S5技术，拥有超2亿+IP，支持邮编级筛选。
+
+* ✅ 独享IP，每IP仅分配1次
+* ✅ 高纯净率，适用于账号防封
+* ✅ 多种计费方式灵活选择
+
+### 优惠与价格
+
+* 📦 IP计费模式 \$0.045/IP 起
+* 📦 流量计费 \$0.7/GB 起，亦有不限流量套餐
+
+👉 [立即访问 922 Proxy 官网](https://www.922proxy.com/)
+
+---
+
+## 🇨🇳 8. 521Proxy ![521Proxy](https://521proxy.com/favicon.ico)
+
+### 简介
+
+521Proxy 是面向跨境用户的国内代理平台，支持220+国家地区，住宅IP多为**高纯净真实IP**。
+
+* ✅ 静态+动态住宅代理可选
+* ✅ 中文界面/客服友好
+* ✅ 免费试用与退款机制
+
+### 优惠与价格
+
+* 📦 动态IP：\$5/GB 起
+* 📦 静态IP：\$6.99/个 起
+
+👉 [进入 521Proxy 官网](https://521proxy.com/)
+
+---
+
+## 🧠 9. IPFoxy ![IPFoxy](https://www.ipfoxy.net/favicon.ico)
+
+### 简介
+
+IPFoxy 提供高质量、独享型的静态/动态住宅IP，适合大规模账号维护和跨境店铺防封操作。
+
+* ✅ 提供多国家ISP住宅IP
+* ✅ 静态+动态代理组合套餐
+* ✅ 数据中心与IPv6也支持
+
+### 优惠与价格
+
+* 🎁 注册送3种代理试用
+* 📦 动态IP：\$2.99/GB 起
+* 📦 静态IP：每日 \$0.16/IP 起
+
+👉 [前往 IPFoxy 官网](https://www.ipfoxy.net/)
+
+---
+
+## 🏆 10. IPIDEA ![IPIDEA](https://www.ipidea.net/favicon.ico)
+
+### 简介
+
+IPIDEA 是全球化代理品牌，提供**动态住宅代理、静态住宅、数据中心与移动IP**四大类代理产品。
+
+* ✅ IP池每日动态更新400万+
+* ✅ 220+国家，HTTP/SOCKS5全支持
+* ✅ 提供中文支持与企业定制方案
+
+### 优惠与价格
+
+* 🎁 注册送 ¥150 试用
+* 📦 动态住宅代理：\$90/10GB 起
+* 📦 静态住宅代理：\$15/7天起
+
+👉 [立即访问 IPIDEA 官网](https://www.ipidea.net/)
+
+---
+
+## 📌 总结：住宅代理平台推荐速览表
+
+| 平台          | IP池规模  | 起步价格       | 是否试用       | 支持协议        |
+| ----------- | ------ | ---------- | ---------- | ----------- |
+| Bright Data | 7200万+ | \$15/GB    | ✅ 7天试用     | HTTP/SOCKS5 |
+| Oxylabs     | 1亿+    | \$99/8GB   | ✅ 企业试用     | HTTP/SOCKS5 |
+| Smartproxy  | 5500万+ | \$75/5GB   | ✅ 退款保障     | HTTP/SOCKS5 |
+| SOAX        | 1.5亿+  | \$99/8GB   | ✅ \$1.99试用 | HTTP/SOCKS5 |
+| NetNut      | 8500万+ | \$300/20GB | ✅ 7天试用     | HTTP/SOCKS5 |
+| IPRoyal     | 5000万+ | \$7/GB     | ❌          | HTTP/SOCKS5 |
+| 922 Proxy   | 2亿+    | \$0.7/GB   | ❌          | SOCKS5      |
+| 521Proxy    | 5000万+ | \$5/GB     | ✅ 免费试用     | HTTP/SOCKS5 |
+| IPFoxy      | 4000万+ | \$2.99/GB  | ✅ 免费试用     | HTTP/SOCKS5 |
+| IPIDEA      | 千万+    | \$90/10GB  | ✅ ¥150试用   | HTTP/SOCKS5 |
+
+---
+
+> 📣 **提示**：选择住宅代理服务时，请结合自身业务需求（如并发量、稳定性、价格、试用政策）进行对比。建议优先选择提供免费试用或退款保障的平台，降低使用门槛。
+
