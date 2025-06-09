@@ -2,9 +2,11 @@
 
 住宅IP代理（Residential Proxies）是指来源于真实家庭用户设备的IP地址，具备极高的匿名性和信任度，广泛应用于爬虫抓取、广告验证、社媒营销、SEO分析等场景。本文为您精选了**全球最值得信赖的住宅代理服务商**，涵盖国际大牌与高性价比国产平台，带来详细介绍、价格方案及联盟推广链接。
 
+![image](https://github.com/user-attachments/assets/a0d29809-9def-45bd-b47a-e99a128b8e4e)
+
 ---
 
-## 🌍 1. Bright Data ![Bright Data](https://brightdata.com/images/logo.png)
+## 🌍 1. Bright Data 
 
 ### 简介
 
@@ -23,7 +25,7 @@ Bright Data（原Luminati）是住宅代理行业的龙头，拥有超过7200万
 
 ---
 
-## 🛰️ 2. Oxylabs ![Oxylabs](https://oxylabs.io/images/logo.svg)
+## 🛰️ 2. Oxylabs
 
 ### 简介
 
@@ -42,7 +44,7 @@ Oxylabs 提供超过1亿住宅IP，IP质量优越，平均响应0.6秒，适用�
 
 ---
 
-## 🚀 3. Smartproxy (Decodo) ![Smartproxy](https://smartproxy.com/favicon-96x96.png)
+## 🚀 3. Smartproxy (Decodo) 
 
 ### 简介
 
@@ -61,7 +63,7 @@ Smartproxy 提供5500万+住宅IP，定位清晰、操作简便，支持浏览�
 
 ---
 
-## 🌐 4. SOAX ![SOAX](https://soax.com/favicon.ico)
+## 🌐 4. SOAX 
 
 ### 简介
 
@@ -81,7 +83,7 @@ SOAX 提供高质量住宅代理，IP池超过1.55亿，支持精细地理筛选
 
 ---
 
-## ⚙️ 5. NetNut ![NetNut](https://netnut.io/favicon.ico)
+## ⚙️ 5. NetNut 
 
 ### 简介
 
@@ -101,7 +103,7 @@ NetNut 拥有8500万住宅IP，依赖ISP直连网络，支持HTTP/SOCKS5，适�
 
 ---
 
-## 💡 6. IPRoyal ![IPRoyal](https://iproyal.com/favicon.ico)
+## 💡 6. IPRoyal 
 
 ### 简介
 
@@ -120,7 +122,7 @@ IPRoyal 提供5000万+住宅IP，支持全球定位，最大特色是**流量永
 
 ---
 
-## 🛡️ 7. 922 S5 Proxy ![922 S5](https://www.922proxy.com/favicon.ico)
+## 🛡️ 7. 922 S5 Proxy 
 
 ### 简介
 
@@ -139,7 +141,7 @@ IPRoyal 提供5000万+住宅IP，支持全球定位，最大特色是**流量永
 
 ---
 
-## 🇨🇳 8. 521Proxy ![521Proxy](https://521proxy.com/favicon.ico)
+## 🇨🇳 8. 521Proxy 
 
 ### 简介
 
@@ -158,8 +160,7 @@ IPRoyal 提供5000万+住宅IP，支持全球定位，最大特色是**流量永
 
 ---
 
-## 🧠 9. IPFoxy ![IPFoxy](https://www.ipfoxy.net/favicon.ico)
-
+## 🧠 9. IPFoxy
 ### 简介
 
 IPFoxy 提供高质量、独享型的静态/动态住宅IP，适合大规模账号维护和跨境店铺防封操作。
@@ -178,7 +179,7 @@ IPFoxy 提供高质量、独享型的静态/动态住宅IP，适合大规模账�
 
 ---
 
-## 🏆 10. IPIDEA ![IPIDEA](https://www.ipidea.net/favicon.ico)
+## 🏆 10. IPIDEA 
 
 ### 简介
 
